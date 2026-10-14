@@ -1,0 +1,13 @@
+{
+  "name": "context-bar",
+  "version": "0.1.0",
+  "description": "Status line bar showing how the current session's context window is used, plus prompt cache time left.",
+  "author": {
+    "name": "imwh0im",
+    "url": "https://github.com/imwh0im"
+  },
+  "homepage": "https://github.com/imwh0im/context-bar",
+  "repository": "https://github.com/imwh0im/context-bar",
+  "license": "MIT",
+  "keywords": ["statusline", "context", "cache", "tokens"]
+}

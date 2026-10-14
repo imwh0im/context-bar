@@ -1,0 +1,15 @@
+{
+  "compilerOptions": {
+    "target": "ES2022",
+    "module": "commonjs",
+    "moduleDetection": "force",
+    "rootDir": "src",
+    "outDir": "plugins/context-bar/scripts",
+    "strict": true,
+    "noUncheckedIndexedAccess": true,
+    "removeComments": true,
+    "types": ["node"],
+    "skipLibCheck": true
+  },
+  "include": ["src"]
+}
